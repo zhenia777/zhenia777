@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenia777&show_icons=true&locale=en&layout=compact" alt="zhenia777" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhenia777&" alt="zhenia777" /></p>hop" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhenia777&" alt="zhenia777" /> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenia777&show_icons=true&locale=en&layout=compact" alt="zhenia777" /></p>
 

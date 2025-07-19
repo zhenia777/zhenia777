@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zhenia👨‍💻</h1>
-<h3 align="center">Fanatic C#😋</h3>
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=zhenia777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)

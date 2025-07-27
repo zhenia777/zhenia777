@@ -5,6 +5,7 @@
 
 ## 🔗Connect with me:
 <p align="left">
+<a href="https://linkedin.com/in/zhenia-budkov-a7252a376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhenia-budkov-a7252a376" height="30" width="40" /></a>
 <a href="https://instagram.com/b.u.d.k.o.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b.u.d.k.o.v" height="30" width="40" /></a>
 </p>
 
